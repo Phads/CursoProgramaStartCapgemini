@@ -1,0 +1,23 @@
+//Faca um algoritmo para informar a Jaoazinho se ele foi aprovado na materia de Logica de programação. Joãozinho fez 3 provas e a média necessário para ser aprovado é de 7;
+
+//Entrada de dados:
+	nota1
+	nota2
+	nota3
+//Processamento:
+	Calcular a média
+//Saída:
+	Mostrar se Aprovado ou Reprovado
+
+======================================
+Algoritmo:
+	Ler nota1
+	Ler nota2
+	Ler nota3
+
+	Meida = (nota1 + nota2 + nota3) / 3
+
+	Se Meida >= 7 entao
+		escreva "Aprovado"
+	SeNão 
+		escreva "Reprovado"
