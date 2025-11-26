@@ -1,0 +1,18 @@
+//faca um algoritmo que recebe dois numeros e ao final mostre o resultado da soma dos dois numeros lidos:
+//Emtrada de dados:
+	PrimeiroNumero
+	SegundoNumero
+//Processamento:
+	Somar os dois numeros
+//Saida:
+	O resultado da soma
+
+==========================
+
+Algoritmo:
+
+Ler PrimeiroNumero
+Ler SegundoNumero
+
+somar = PrimeiroNumero + SegundoNumero
+Escrever soma
